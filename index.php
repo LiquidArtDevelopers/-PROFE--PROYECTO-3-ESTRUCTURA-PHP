@@ -3,7 +3,6 @@
 //ARCHIVO ROUTER O DE CONFIGURACIÓN  
 //---------------------------------
 
-
 require_once './vendor/autoload.php';
 use Dotenv\Dotenv;
 $dotenv = Dotenv::createImmutable('./');
@@ -32,7 +31,6 @@ if(isset($arrayRutas[$url])){
     require_once $arrayRutas[$url];
 
 }else{
-
     //----VISTA----------
     require './php/vistas/404.php'; 
 }

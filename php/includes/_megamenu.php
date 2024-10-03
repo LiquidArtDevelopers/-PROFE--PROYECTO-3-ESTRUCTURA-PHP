@@ -53,6 +53,12 @@
                     <img src="<?=$_ENV['RAIZ']?>/assets/img/chevron-forward-outline.svg" alt="">
                     <span><?=$url2Text?></span>
                 </a>
+            </li>
+            <li>
+                <a href="<?=$_ENV['RAIZ']."/".$lang."/".$url3?>">
+                    <img src="<?=$_ENV['RAIZ']?>/assets/img/chevron-forward-outline.svg" alt="">
+                    <span><?=$url3Text?></span>
+                </a>
             </li>                   
         </ul>
     </div>

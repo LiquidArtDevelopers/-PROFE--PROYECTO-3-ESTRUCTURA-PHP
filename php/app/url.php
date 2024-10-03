@@ -21,7 +21,7 @@ if(!isset($_COOKIE['lang'])){
         $lang = $_ENV['LANG_DEFAULT'];
     }
 }else{ //si existe..
-    $lang = $_COOKIE["lang"]; //cogemos la cookie desde php de lang    
+    $lang = $_COOKIE["lang"]; //cogemos la cookie desde php de lang
 }
 
 
@@ -46,7 +46,7 @@ if(in_array($urlLang, $langs)){
 //En caso de que la url "/" y $url sea "/idioma" entonces hace redirección 
 if(urldecode($_SERVER["REQUEST_URI"]) !== $url){
     header("HTTP/1.1 301 Moved Permanently");
-    header("Location:$url");
+    header("Location:/$lang");
     exit;
 }
 

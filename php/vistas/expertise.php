@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Servicios web & posicionamiento SEO en España</title>
+    <title>Casos de éxito en desarrollo web, seo y diseño corporastivo</title>
     <meta name="description" content="webda | Desarrollo de aplicaciones web nativas y en wordpress. Woocommerce y otras funcionalidades específicas de tu negocio. Sin límites de programación. Posicionamiento profesional SEO y campañas SEM para tu página web. Imagen corporativa. Trabajamos en Gipuzkoa, Bizkaia y Araba.">   
-    <link rel="stylesheet" href="<?=$_ENV['RAIZ']?>/assets/css/servicios.min.css?v=1.1">
+    <link rel="stylesheet" href="<?=$_ENV['RAIZ']?>/assets/css/expertise.min.css?v=1.1">
     <script type="module" src="<?=$_ENV['RAIZ']?>/assets/js/app.js?v=1.1"></script>
 
     <!-- metadatos de configuración -->
@@ -112,7 +112,7 @@
                             >
                         </div>
                     </div>
-                </article> 
+            </article> 
         </section>
 
 

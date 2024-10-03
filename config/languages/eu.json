@@ -6,7 +6,10 @@
         "url1Text": "Web Zerbitzuak",
 
         "url2":"kontaktatu",
-        "url2Text": "Kontaktatu"        
+        "url2Text": "Kontaktatu",
+        
+        "url3":"arrakasta-kasuak",
+        "url3Text": "Arrakasta Kasuak"
     },
     "inicio": {
         "title": "WEBDA | Enpresentzako irtenbide digitalak",
@@ -47,5 +50,10 @@
         "title": "Kontaktatu gurekin zure webgunea egiteko",
         "description": "Zerbitzu guztiak, kokapenak, kontaktuarekin lotuta",
         "h1": "KONTAKTATU GUREKIN"
+    },
+    "arrakasta-kasuak": {
+        "title": "Web garapenean, SEOan eta korporatibo diseinuan arrakasta-kasuak",
+        "description": "Ezagutu gure bezeroen proiektuak",
+        "h1": "ARRAKASTA-KASUAK"
     }
 }
