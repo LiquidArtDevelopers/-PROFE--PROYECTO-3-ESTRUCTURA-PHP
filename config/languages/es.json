@@ -5,11 +5,40 @@
         "url1":"servicios-web",
         "url1Text": "Servicios Web",
 
+        "url1a":"servicios-web/posicionamiento-seo",
+        "url1aText": "Posicionamiento SEO",
+        "url1b":"servicios-web/aplicaciones-multiplataforma",
+        "url1bText": "Aplicaciones Multiplataforma",
+        "url1c":"servicios-web/desarrollo-web-nativo",
+        "url1cText": "Desarrollo web nativo",
+        "url1d":"servicios-web/diseño-imagen-corporativa",
+        "url1dText": "Diseño imagen corporativa",
+        "url1e":"servicios-web/marketing-rrss-sem",
+        "url1eText": "Marketing RRSS y SEM",
+
         "url2":"contactar",
         "url2Text": "Contacto",
         
         "url3":"casos-de-exito",
-        "url3Text": "Casos de Éxito"
+        "url3Text": "Casos de Éxito",
+
+        "col1":"Contenido de esta web",
+        
+        "col2":"Otros servicios",
+        "col2a":"infoda | Formación y empleo en Euskal Herria",
+        "col2b":"orduda | Aplicación de fichajes y conciliación laboral",
+        "col2c":"Más información",
+        "col2d":"Síguenos en redes sociales",
+        "col3":"Contacto",
+        "col3a":"Portuetxe 23B oficina 413-4 20218 Donostia San Sebastián",
+        "col4":"Selecciona tu idioma",
+
+        "form1":"Nombre",
+        "form2":"Correo Electrónico",
+        "form3":"Suscribirme"
+
+
+
     },
     "inicio":{
         "title": "WEBDA | Soluciones digitales para empresas",

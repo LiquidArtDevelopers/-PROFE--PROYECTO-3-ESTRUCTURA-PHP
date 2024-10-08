@@ -5,11 +5,35 @@
         "url1":"web-zerbitzuak",
         "url1Text": "Web Zerbitzuak",
 
+        "url1a":"web-zerbitzuak/seo-posizionamendua",
+        "url1aText": "SEO Posizionamendua",
+        "url1b":"web-zerbitzuak/aplikazio-multiplataforma",
+        "url1bText": "Aplikazio Multiplataforma",
+        "url1c":"web-zerbitzuak/web-garapena-natiboa",
+        "url1cText": "Web garapena natiboa",
+        "url1d":"web-zerbitzuak/irudi-korporatibo-diseinua",
+        "url1dText": "Irudi korporatibo diseinua",
+        "url1e":"web-zerbitzuak/marketina-rrss-sem",
+        "url1eText": "Marketina RRSS SEM",
+
         "url2":"kontaktatu",
         "url2Text": "Kontaktatu",
         
         "url3":"arrakasta-kasuak",
-        "url3Text": "Arrakasta Kasuak"
+        "url3Text": "Arrakasta Kasuak",
+
+        "col1": "Webgune honetako edukia",
+        "col2": "Beste zerbitzuak",
+        "col2a": "infoda | Euskal Herriko prestakuntza eta enplegua",
+        "col2b": "orduda | Fichaje eta lan-bizitza bateratzeko aplikazioa",
+        "col2c": "Informazio gehiago",
+        "col2d": "Jarraitu gaitzazu sare sozialetan",
+        "col3": "Harremana",
+        "col3a": "Portuetxe 23B bulegoa 413-4 20218 Donostia San Sebastián",
+        "col4": "Hautatu zure hizkuntza",
+        "form1": "Izena",
+        "form2": "Posta Elektronikoa",
+        "form3": "Harpidetu"
     },
     "inicio": {
         "title": "WEBDA | Enpresentzako irtenbide digitalak",
