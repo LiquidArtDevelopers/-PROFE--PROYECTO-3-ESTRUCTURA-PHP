@@ -116,11 +116,9 @@
                 </a>
             </li>                    
         </ul>
-        <form action="validar.php" method="post">
-            
-            <input type="text" minlength="3" maxlength="100" name="nombre" placeholder="<?=$form1?>" required>
-
-            <input type="email" name="email" placeholder="<?=$form2?>" required>
+        <form action="./php/app/enviar_mail.php" method="post">            
+            <input type="text" minlength="3" maxlength="100" name="nombre" placeholder="<?=$form1?>" require>
+            <input type="email" name="email" placeholder="<?=$form2?>" require>
             <input class="boton" type="submit" value="<?=$form3?>">
         </form>
     </div>

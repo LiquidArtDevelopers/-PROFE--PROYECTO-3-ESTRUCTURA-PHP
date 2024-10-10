@@ -79,6 +79,9 @@
         "title": "Success cases in web development, SEO, and corporate design",
         "description": "Discover our clients' projects",
         "h1": "SUCCESS CASES"
+    },
+    "thx-for-your-register":{
+        "h1":"Thx for your register"
     }
 
 }

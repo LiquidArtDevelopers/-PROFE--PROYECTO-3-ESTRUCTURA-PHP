@@ -44,6 +44,11 @@ return[
     '/fr/services-web/developpement-web-natif' => './php/vistas/servicio.php',
     '/fr/services-web/marketing-numerique-rrss-sem' => './php/vistas/servicio.php',
     '/fr/services-web/conception-image-corporative' => './php/vistas/servicio.php',
+
+    '/es/gracias-por-tu-registro' => './php/vistas/registro.php',
+    '/en/thx-for-your-register' => './php/vistas/registro.php',
+    '/eu/eskerrik-asko-zure-erregistroagatik' => './php/vistas/registro.php',
+    '/fr/merci' => './php/vistas/registro.php',
     
 ];
 ?>
